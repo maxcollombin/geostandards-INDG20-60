@@ -1,0 +1,32 @@
+//Document title
+= geostandards-INDG20-60
+:toc: right
+
+== To do List:
+
+* Define an internal structure fo each different sections
+* Review the publishing with a masterfile.adoc file instead of the default README.adoc file.
+* Test the deployment with Antora
+
+
+//Inclusion of the contents of linked files
+
+//Introduction
+
+include::introduction.adoc[]
+
+//Workpackage 2
+
+include::workpackage-2.adoc[]
+
+//Workpackage 3
+
+include::workpackage-3.adoc[]
+
+//Workpackage 4
+
+include::workpackage-4.adoc[]
+
+//Conclusion
+
+include::conclusion.adoc[]
