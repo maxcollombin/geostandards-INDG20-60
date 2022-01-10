@@ -2,13 +2,6 @@
 = geostandards-INDG20-60
 :toc: right
 
-== To do List:
-
-* Define an internal structure fo each different sections
-* Review the publishing with a masterfile.adoc file instead of the default README.adoc file.
-* Test the deployment with Antora
-
-
 //Inclusion of the contents of linked files
 
 //Introduction
